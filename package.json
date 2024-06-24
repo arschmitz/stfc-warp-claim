@@ -1,6 +1,6 @@
 {
   "name": "stfc-warp-claim",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Claim your STFC Web Gifts at warp speed. Simply run with your username and password and your gifts will be auto claimed every 10 minutes",
   "main": "index.js",
   "scripts": {
