@@ -1,0 +1,19 @@
+{
+  "name": "stfc-warp-claim",
+  "version": "0.0.2",
+  "description": "Claim your STFC Web Gifts at warp speed. Simply run with your username and password and your gifts will be auto claimed every 10 minutes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arschmitz/stfc-warp-claim.git"
+  },
+  "author": "Alexander Schmitz <arschmitz@gmail.com>",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/arschmitz/stfc-warp-claim/issues"
+  },
+  "homepage": "https://github.com/arschmitz/stfc-warp-claim#readme"
+}
